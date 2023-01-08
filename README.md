@@ -10,4 +10,3 @@ This is inspired from DevAsLife's chat bubbles in his vids. Goal is to remake th
 ```
 
 > `Made by SwiftNCloak`
-``
